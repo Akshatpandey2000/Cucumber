@@ -20,10 +20,10 @@
             <version>1.2.5</version>
         </dependency>
              <dependency>
-  <groupId>org.eclipse.jetty</groupId>
-  <artifactId>jetty-maven-plugin</artifactId>
-  <version>9.4.7</version>
-</dependency>
+                <groupId>org.eclipse.jetty</groupId>
+                <artifactId>jetty-maven-plugin</artifactId>
+                <version>9.4.0.M0</version>
+            </dependency>
 
         <!-- https://mvnrepository.com/artifact/info.cukes/cucumber-junit -->
         <dependency>
